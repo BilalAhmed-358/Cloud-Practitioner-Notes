@@ -1,1 +1,1 @@
-# This repo contains my notes for the cloud practitioner exam (CLF C01)
+# This repo contains my notes for the cloud practitioner exam (CLF C02)
